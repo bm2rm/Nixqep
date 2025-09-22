@@ -1,4 +1,4 @@
-name: deploy CRUD-API-DEVOPS
+name: deploy variableAndConst
 
 on:
   push:
